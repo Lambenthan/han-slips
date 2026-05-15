@@ -25,5 +25,8 @@ venv/
 /tmp/
 _ocr2/
 
+# Office lock files
+~$*
+
 # Internal working notes (not for public)
 CHECKPOINT.md
